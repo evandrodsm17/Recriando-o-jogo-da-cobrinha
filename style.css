@@ -4,6 +4,10 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    color: rgb(37, 36, 35);
+    color: #810e0e;
     flex-direction: column;
+}
+
+canvas #snake{
+    color: #d44141;
 }
